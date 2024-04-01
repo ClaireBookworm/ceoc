@@ -1,0 +1,42 @@
+{
+  "name": "ceoc",
+  "version": "1.0.0",
+  "description": "cambridge food pantry yelp",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "test": "next test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaireBookworm/ceoc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClaireBookworm/ceoc/issues"
+  },
+  "homepage": "https://github.com/ClaireBookworm/ceoc#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "next": "^14.1.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}
